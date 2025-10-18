@@ -1,17 +1,3 @@
-# -----------------------------------------------------------------------------
-# © 2025 00x0kafyy | All rights reserved.
-#
-# Proprietary Software – part of WormGPT CLI.
-# Redistribution, resale, modification, or recoding of this code in any form
-# is strictly prohibited without explicit written permission from the author.
-#
-# Unauthorized use, cloning, or removal of this notice will result in
-# permanent banning and legal action under applicable law.
-#
-# License Contact: t.me/xsocietyforums | t.me/astraeoul
-# Build Signature: ASTRAA-00X0-2025
-# Jurisdiction: Republic of Indonesia
-# -----------------------------------------------------------------------------
 
 import sys
 import os
